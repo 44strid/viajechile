@@ -1,0 +1,20 @@
+
+.body{
+ font-family: 'Mulish', sans-serif;
+}
+.imagen-logo{
+
+  height: 30px;
+  width: 30px;
+}
+
+.carousel-item IMG {
+
+  max-height: 100vh;
+
+}
+
+.card img{
+
+  max-height: 150px;
+}
