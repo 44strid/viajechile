@@ -1,2 +1,2 @@
 # viajechile
-pag para fomentar el turismo en chile
+Pagina para fomentar el turismo en chile
